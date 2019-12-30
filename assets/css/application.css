@@ -1,3 +1,13 @@
+body h1 {
+  font-size: 30px;
+  color: #194ba0; }
+body h2 {
+  font-size: 18px;
+  color: #194ba0; }
+body p {
+  font-size: 14px;
+  color: #4d4d4f; }
+
 .row {
   margin-top: 20px;
   margin-bottom: 20px; }
