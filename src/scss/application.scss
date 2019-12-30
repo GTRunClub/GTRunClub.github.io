@@ -15,5 +15,19 @@ body {
   width: 200px;
 }
 
-.coffee-collage {
+.insta-photo {
+  width: 250px;
+  height: 250px;
+}
+
+.footer {
+  margin-top: 100px;
+  height: 400px;
+  background-image: url("../images/GTRC_Web_Bottom_Collage.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+
+  .gtrc-ellipse-logo {
+    margin-top: 100px;
+  }
 }
