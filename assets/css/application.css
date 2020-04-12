@@ -10,7 +10,8 @@ body p {
 
 .row {
   margin-top: 25px;
-  margin-bottom: 25px; }
+  margin-bottom: 25px;
+  width: 100%; }
 
 .insta-photo {
   width: 250px;
@@ -41,6 +42,10 @@ body p {
   display: flex;
   align-items: center;
   margin-bottom: 25px;
-  width: 100%; }
+  width: 100%;
+  justify-content: space-between; }
+
+.about-gtrc {
+  text-align: center; }
 
 /*# sourceMappingURL=application.css.map */

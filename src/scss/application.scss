@@ -21,6 +21,7 @@ body {
 .row {
   margin-top: 25px;
   margin-bottom: 25px;
+  width: 100%;
 }
 
 .insta-photo {
@@ -59,4 +60,9 @@ body {
   align-items: center;
   margin-bottom: 25px;
   width: 100%;
+  justify-content: space-between;
+}
+
+.about-gtrc {
+  text-align: center;
 }
