@@ -50,10 +50,10 @@ header {
 
 .middle-collage-image {
   background-image: url("../images/GTRC_Web_Middle_Group_Photo.jpg");
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   width: 100%;
-  padding-top: 33%; }
+  padding-top: 75%; }
 
 .header-row {
   display: flex;
