@@ -1,4 +1,4 @@
-$primary-color: #194ba0;
+$primary-color: #4e9bd0;
 $secondary-color: #4d4d4f;
 
 body {
@@ -15,6 +15,11 @@ body {
   p {
     font-size: 14px;
     color: $secondary-color;
+  }
+
+  a.nav-link {
+    font-size: 30px;
+    color: $primary-color;
   }
 }
 
@@ -67,7 +72,7 @@ header {
 }
 
 .collage-image {
-  background-image: url("../images/TopCollageLogo.png");
+  background-image: url("../images/Web_Photo_Banner.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   width: 100%;

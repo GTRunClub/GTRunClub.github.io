@@ -1,12 +1,15 @@
 body h1 {
   font-size: 30px;
-  color: #194ba0; }
+  color: #4e9bd0; }
 body h2 {
   font-size: 18px;
-  color: #194ba0; }
+  color: #4e9bd0; }
 body p {
   font-size: 14px;
   color: #4d4d4f; }
+body a.nav-link {
+  font-size: 30px;
+  color: #4e9bd0; }
 
 header {
   background-image: url("../images/Web_Header.jpg");
@@ -47,7 +50,7 @@ header {
   padding-top: 15%; }
 
 .collage-image {
-  background-image: url("../images/TopCollageLogo.png");
+  background-image: url("../images/Web_Photo_Banner.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   width: 100%;
