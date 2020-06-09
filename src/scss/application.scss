@@ -52,7 +52,7 @@ header {
     background-image: url("../images/runner1.jpg");
   }
   &#insta-photo-2 {
-    background-image: url("../images/runner2.png");
+    background-image: url("../images/GTRC_Instagram.jpg");
   }
   &#insta-photo-3 {
     background-image: url("../images/runner3.png");
@@ -64,11 +64,7 @@ header {
 
 .footer {
   margin-top: 75px;
-  background-image: url("../images/GTRC_Web_Bottom_Collage.jpg");
-  background-size: contain;
-  background-repeat: no-repeat;
   height: 400px;
-  padding-top: 15%;
 }
 
 .collage-image {
@@ -96,7 +92,14 @@ header {
 }
 
 .about-gtrc {
-  text-align: center;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 20px;
+
+  p {
+    font-size: 25px;
+    text-align: center;
+  }
 }
 
 .card {

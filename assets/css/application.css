@@ -35,7 +35,7 @@ header {
   .insta-photo#insta-photo-1 {
     background-image: url("../images/runner1.jpg"); }
   .insta-photo#insta-photo-2 {
-    background-image: url("../images/runner2.png"); }
+    background-image: url("../images/GTRC_Instagram.jpg"); }
   .insta-photo#insta-photo-3 {
     background-image: url("../images/runner3.png"); }
   .insta-photo#insta-photo-4 {
@@ -43,11 +43,7 @@ header {
 
 .footer {
   margin-top: 75px;
-  background-image: url("../images/GTRC_Web_Bottom_Collage.jpg");
-  background-size: contain;
-  background-repeat: no-repeat;
-  height: 400px;
-  padding-top: 15%; }
+  height: 400px; }
 
 .collage-image {
   background-image: url("../images/Web_Photo_Banner.jpg");
@@ -71,7 +67,12 @@ header {
   justify-content: space-between; }
 
 .about-gtrc {
-  text-align: center; }
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 20px; }
+  .about-gtrc p {
+    font-size: 25px;
+    text-align: center; }
 
 .card {
   vh: 10%; }
