@@ -77,4 +77,8 @@ header {
 .card {
   vh: 10%; }
 
+#gtrc-insta-link {
+  color: #4e9bd0;
+  margin-left: 5px; }
+
 /*# sourceMappingURL=application.css.map */
